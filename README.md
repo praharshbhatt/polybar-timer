@@ -6,12 +6,10 @@ A Timer module for [Polybar](https://github.com/jaagr/polybar)
 * [rofi](https://github.com/DaveDavenport/rofi)
 
 ## Screenshots
-![Timer Creation](screenshots/1.gif)
-![Timer End](screenshots/2.gif)
+![Timer Creation](https://github.com/praharshbhatt/polybar-timer/blob/main/screenhots/1.gif?raw=true)
+![Timer End](https://github.com/praharshbhatt/polybar-timer/blob/main/screenhots/2.gif?raw=true)
 
 ## Usage
-
-
 
 1. Place the given script in the `~/.config/polybar/scripts` folder. If you want to place it in another folder, make sure to update the line:
 ```bash
